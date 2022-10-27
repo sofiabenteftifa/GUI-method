@@ -16,6 +16,7 @@ public class GUIWindow{
     panel4.setBackground(Color.darkgreen);
    // JPanel panel5 = new JPanel();
     //panel
+        //comment
     Container pane = theGUI.getContentPane();
     pane.setLayout(new GridLayout(2, 2));
     pane.add(panel1);
